@@ -54,6 +54,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=nikghost17&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikghost17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ###
 <h2 align="left">Connect With Me</h2>
 <div align="left">
