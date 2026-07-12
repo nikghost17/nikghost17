@@ -90,18 +90,18 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 
 <!-- STATS CARDS ROW -->
 <a href="https://github.com/nikghost17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikghost17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikghost17&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/nikghost17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikghost17&theme=radical&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikghost17&theme=radical&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
 <!-- STREAK STATS -->
 <a href="https://github.com/nikghost17">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikghost17&theme=radical&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=nikghost17&theme=radical&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
