@@ -101,7 +101,7 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 
 <!-- STREAK STATS -->
 <a href="https://github.com/nikghost17">
-  <img src="https://streak-stats.demolab.com?user=nikghost17&theme=radical&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=nikghost17&theme=radical&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
@@ -123,7 +123,7 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 <br/>
 
 <a href="https://github.com/nikghost17">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikghost17&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=nikghost17&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies"/>
 </a>
 
 </div>
