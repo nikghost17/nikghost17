@@ -30,19 +30,18 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Nikhil Vedak
-located_in: India 🇮🇳
-current_role: Full Stack Web Developer
-education: Computer Science Student
+name: Nikhil Nilesh Vedak
+located_in: Dapoli, Maharashtra, India 🇮🇳
+education: Computer Science Student (Final Year IIITDM JABALPUR)
 
 fields_of_interests:
   - Web Development
-  - UI/UX Design
+  - Backend Engineering
   - Database Architecture
   - Open Source
 
 currently_learning:
-  - Advanced React Patterns
+  - Advanced RAG Patterns
   - System Design
   - Cloud Technologies
 
